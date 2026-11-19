@@ -19,4 +19,6 @@ Este diretório é a **fonte canônica** das regras de negócio do Fraternos, co
 - **Histórico:** data, mudança e decisão aprovada.
 
 ## Regras registradas
-Nenhuma regra de negócio foi formalmente definida até o momento. As diretrizes técnicas e o processo de governança constam no `AGENTS.md`.
+- [RN-0001 a RN-0014 — Fraternidades, vínculos e pertencimento](fraternities-and-membership.md): tipos, níveis, hierarquia, subdivisões, vínculos fraternos, INAFRA, pertencimento e transferências.
+
+As diretrizes técnicas e o processo de governança constam no `AGENTS.md`. As regras registradas representam a especificação inicial e poderão ser detalhadas mediante decisão explícita do responsável.
