@@ -20,5 +20,8 @@ Este diretório é a **fonte canônica** das regras de negócio do Fraternos, co
 
 ## Regras registradas
 - [RN-0001 a RN-0014 — Fraternidades, vínculos e pertencimento](fraternities-and-membership.md): tipos, níveis, hierarquia, subdivisões, vínculos fraternos, INAFRA, pertencimento e transferências.
+- [RN-0015 a RN-0020 — Administração, coordenações e cargos](administration-and-coordination.md): Master, cadastro, coordenações eleitas, denominações e listas de cargos.
+- [RN-0021 a RN-0028 — Visões, participação e transparência](participation-and-transparency.md): presença, finanças, votações, documentos, capítulos e informações dos níveis superiores.
+- [RN-0029 a RN-0033 — Cadastro de pessoas e ficha do irmão](person-records.md): registro inicial, dados pessoais, família, formação e eventos.
 
 As diretrizes técnicas e o processo de governança constam no `AGENTS.md`. As regras registradas representam a especificação inicial e poderão ser detalhadas mediante decisão explícita do responsável.
